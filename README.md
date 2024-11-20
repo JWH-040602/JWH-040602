@@ -8,10 +8,8 @@
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCja2Z5OSOQPadCndUTdVxUA)
 
-[![CAUail Badge](https://img.shields.io/badge/mail-0854C1?style=flat-square&logo=CAUmail&logoColor=white&link=mailto:jwon1754@gmail.com)](mailto:jwon1754@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-90E4FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwon1754@gmail.com)](mailto:jwon1754@gmail.com)
 
-
-https://img.shields.io/badge/instargram-FF007F
 
 
 ## 예술공학부 24학번 정원형
