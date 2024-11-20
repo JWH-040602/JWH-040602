@@ -10,7 +10,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-90E4FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwon1754@gmail.com)](mailto:jwon1754@gmail.com)
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JWH-040602)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 예술공학부 24학번 정원형
 
