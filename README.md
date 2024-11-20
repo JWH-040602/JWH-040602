@@ -6,10 +6,6 @@
 
 </div>
 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCja2Z5OSOQPadCndUTdVxUA)
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-90E4FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwon1754@gmail.com)](mailto:jwon1754@gmail.com)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JWH-040602)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 예술공학부 24학번 정원형
@@ -17,6 +13,10 @@
 ![image](https://github.com/user-attachments/assets/1b1e19a9-0b0f-418c-b29c-e516eaa5a70b)
 
 nice to meet you╰(*°▽°*)╯
+
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCja2Z5OSOQPadCndUTdVxUA)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-90E4FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwon1754@gmail.com)](mailto:jwon1754@gmail.com)
 
 ## interest
 🎸Spyair
