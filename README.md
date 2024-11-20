@@ -14,7 +14,7 @@
 
 nice to meet you╰(*°▽°*)╯
 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCja2Z5OSOQPadCndUTdVxUA)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-C90000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCja2Z5OSOQPadCndUTdVxUA)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-90E4FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwon1754@gmail.com)](mailto:jwon1754@gmail.com)
 
