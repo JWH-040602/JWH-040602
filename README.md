@@ -6,4 +6,6 @@
 
 </div>
 
+<div align=center>
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=[https://www.youtube.com/c/kyleschool](https://www.youtube.com/@%EC%A0%95%EC%9B%90%ED%98%95-u4o))]([https://www.youtube.com/c/kyleschool](https://www.youtube.com/@%EC%A0%95%EC%9B%90%ED%98%95-u4o))
+</div>
