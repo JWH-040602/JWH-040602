@@ -10,6 +10,10 @@
 
 [[https://www.youtube.com/@%EC%A0%95%EC%9B%90%ED%98%95-u4o]](https://www.youtube.com/channel/UCja2Z5OSOQPadCndUTdVxUA)
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+
+jwon1754@gmail.com
+
 ## 예술공학부 24학번 정원형
 
 ![image](https://github.com/user-attachments/assets/1b1e19a9-0b0f-418c-b29c-e516eaa5a70b)
