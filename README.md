@@ -9,8 +9,8 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 [[https://www.youtube.com/@%EC%A0%95%EC%9B%90%ED%98%95-u4o]](https://www.youtube.com/channel/UCja2Z5OSOQPadCndUTdVxUA)
 
-[![Mail Badge](https://img.shields.io/badge/mail-76BB21?style=flat-square&logo=mail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
-jwon1754@gmail.com
+[![CAUail Badge](https://img.shields.io/badge/mail-0854C1?style=flat-square&logo=mail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+jwon1754@cau.ac.kr
 
 ## 예술공학부 24학번 정원형
 
