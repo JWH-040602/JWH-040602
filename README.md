@@ -11,7 +11,8 @@
 
 ## 예술공학부 24학번 정원형
 nice to meet you
-![image](https://github.com/user-attachments/assets/9ab196bb-3688-4e9c-a302-c6dfc1d7be3d)
+![image](https://github.com/user-attachments/assets/1b1e19a9-0b0f-418c-b29c-e516eaa5a70b)
+
 
 
 ## interest
