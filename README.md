@@ -23,6 +23,11 @@
 
 <a href=https://www.instagram.com/wjddnjsgud0602/><img src="https://img.shields.io/badge/Instagram-FF007F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
+## Tech Stack
+
+[![Wondershare Filmora](https://img.shields.io/badge/Wondershare%20Filmora-16A5DA?style=for-the-badge&logo=filmora&logoColor=white)](https://filmora.wondershare.com/)
+
+
 ## Goal
 
 영화 특수효과, 3D 그래픽, 그리고 무대 연출에 관심이 많습니다. 
