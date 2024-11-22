@@ -27,7 +27,10 @@
 
 <a href="https://filmora.wondershare.com/" target="_blank"><img src="https://img.shields.io/badge/Wondershare%20Filmora-07273D?style=flat-square&logo=wondershare&logoColor=white" alt="Wondershare Filmora Badge"/></a>
 
-<a href="https://procreate.art/" target="_blank"><img src="https://i.namu.wiki/i/12DdQXpHHSrKeNkMI53ujhwl_rdVt0egw_9QtXqk0_1_Cds0hJQvCFgqFjPTGVY3J1x3OrJhY0HoZr-iaLPWZg.webp" alt="Procreate Logo" width="100"></a>
+<a href="https://procreate.art/" target="_blank">
+  <img src="https://img.shields.io/badge/Procreate-1D1D1D?style=flat-square&logoWidth=20&labelColor=1D1D1D&logo=data:image/webp;base64,UklGRjAAAABXRUJQVlA4WAoAAAAQAAAABwAABwAAQUxQSAAEAAAAVAAAACQAA0E/UaQAA=" alt="Procreate Badge" />
+</a>
+
 
 
 
