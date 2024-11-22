@@ -12,9 +12,7 @@
 
 ![image](https://github.com/user-attachments/assets/1b1e19a9-0b0f-418c-b29c-e516eaa5a70b)
 
-Nice to meet you╰(*°▽°*)╯
-
-예술공학부 24학번 04년생 정원형입니다.
+예술공학부 24학번 04년생 정원형입니다 ╰(*°▽°*)╯
 잘 부탁드려요 :-)
 
 ![number Badge](https://img.shields.io/badge/phone%20number%20-0000DB)
@@ -30,6 +28,7 @@ Nice to meet you╰(*°▽°*)╯
 🎸Spyair
 
 ⇒ 제일 좋아하는 일본 밴드입니다. 올해 부산 록 페스티벌에 왔을 때 보고 싶었는데 아쉽게도 못 갔습니다. 내년 부산 락페 같이 가실 분 디엠주세요... 같이 가요...
+<Naked>, <Winding road>, <Little summer> 추천곡 입니다. 시간될 때 한 번 들어보세요 ^____^
 
 💕Musical
 
