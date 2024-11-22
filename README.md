@@ -25,7 +25,7 @@
 
 ## Tech Stack
 
-<a href="https://filmora.wondershare.com/" target="_blank"><img src="https://img.shields.io/badge/wondersharefilmora-FF007F?style=flat-square&logo=wondersharefilmora&logoColor=white"/"/></a>
+<a href="https://filmora.Wondershare.com/" target="_blank"><img src="https://img.shields.io/badge/WondershareFilmora-07273D?style=flat-square&logo=WondershareFilmora&logoColor=white"/"/></a>
 
 
 
