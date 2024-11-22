@@ -15,7 +15,6 @@
 예술공학부 24학번 04년생 정원형입니다 ╰(*°▽°*)╯
 
 ![number Badge](https://img.shields.io/badge/phone%20number%20-0000DB)
-010-2578-9911
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-C90000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCja2Z5OSOQPadCndUTdVxUA)
 
