@@ -13,7 +13,6 @@
 ![image](https://github.com/user-attachments/assets/1b1e19a9-0b0f-418c-b29c-e516eaa5a70b)
 
 예술공학부 24학번 04년생 정원형입니다 ╰(*°▽°*)╯
-잘 부탁드려요 :-)
 
 ![number Badge](https://img.shields.io/badge/phone%20number%20-0000DB)
 010-2578-9911
