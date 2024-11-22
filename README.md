@@ -39,8 +39,7 @@
 🎸Spyair
 
 ⇒ 제일 좋아하는 일본 밴드입니다. 올해 부산 록 페스티벌에 왔을 때 보고 싶었는데 아쉽게도 못 갔습니다. 내년 부산 락페 같이 가실 분 디엠주세요... 같이 가요...
-
-[Naked], [Winding road], [Little summer] 제 추천곡 입니다 :-) 
+ [Naked], [Winding road], [Little summer] 제 추천곡 입니다 :-) 
 
 💕Musical
 
