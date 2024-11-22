@@ -12,7 +12,9 @@
 
 ![image](https://github.com/user-attachments/assets/1b1e19a9-0b0f-418c-b29c-e516eaa5a70b)
 
-nice to meet you╰(*°▽°*)╯
+Nice to meet you╰(*°▽°*)╯
+예술공학부 24학번 04년생 정원형입니다.
+잘 부탁드려요 :-)
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-C90000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCja2Z5OSOQPadCndUTdVxUA)
 
