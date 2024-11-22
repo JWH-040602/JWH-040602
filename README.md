@@ -25,7 +25,10 @@
 
 ## Tech Stack
 
-[![Wondershare Filmora](https://img.shields.io/badge/Wondershare%20Filmora-16A5DA?style=for-the-badge&logo=filmora&logoColor=white)](https://filmora.wondershare.com/)
+<a href="https://filmora.wondershare.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Wondershare_Filmora_logo.png" alt="Wondershare Filmora" width="100">
+</a>
+
 
 
 ## Goal
