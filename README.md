@@ -47,18 +47,10 @@
 
 ## Interest
 
-🎸Spyair
-
-⇒ [Naked], [Winding road], [Little summer] 
+🎸Spyair 
 
 💕Musical
 
-⇒ [HADESTOWN]
-
 🎬Movie
 
-⇒ [완득이]
-
 🎥drama
-
-⇒ [언내추럴], [라이프 온 마스]
