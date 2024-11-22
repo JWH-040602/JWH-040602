@@ -27,7 +27,8 @@
 
 <a href="https://filmora.wondershare.com/" target="_blank"><img src="https://img.shields.io/badge/Wondershare%20Filmora-07273D?style=flat-square&logo=wondershare&logoColor=white" alt="Wondershare Filmora Badge"/></a>
 
-[![Procreate](https://img.shields.io/badge/Procreate-1D1D1D?style=flat-square&logoColor=white)](https://procreate.art/)
+<a href="https://procreate.art/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/31/Procreate_logo.png" alt="Procreate Logo" width="100">
 
 
 ## Goal
