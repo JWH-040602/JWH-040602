@@ -28,7 +28,7 @@
 <a href="https://filmora.wondershare.com/" target="_blank"><img src="https://img.shields.io/badge/Wondershare%20Filmora-07273D?style=flat-square&logo=wondershare&logoColor=white" alt="Wondershare Filmora Badge"/></a>
 
 <a href="https://procreate.art/" target="_blank">
-  <img src="https://logos-world.net/wp-content/uploads/2023/02/Procreate-Logo.png" alt="Procreate Logo" width="50" height="50">
+  <img src="https://logos-world.net/wp-content/uploads/2023/02/Procreate-Logo.png" alt="Procreate Logo" width="100" height="50">
 </a>
 
 
