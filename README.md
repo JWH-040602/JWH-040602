@@ -28,9 +28,7 @@
 
 ## Tech Stack
 
-<a href="https://filmora.wondershare.com/" target="_blank">
-   <img src="https://img.shields.io/badge/Wondershare%20Filmora-07273D?style=flat-square&logo=wondershare&logoColor=white" alt="Wondershare Filmora Badge"/>
-</a>
+<a href="https://filmora.wondershare.com/" target="_blank"><img src="https://img.shields.io/badge/Wondershare%20Filmora-07273D?style=flat-square&logo=wondershare&logoColor=white" alt="Wondershare Filmora Badge"/></a>
 
 
 <a href="https://procreatedreams.com/" target="_blank">
