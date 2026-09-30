@@ -12,7 +12,7 @@
 
 ![image](https://github.com/user-attachments/assets/1b1e19a9-0b0f-418c-b29c-e516eaa5a70b)
 
-예술공학부 24학번 04년생 정원형입니다 ╰(*°▽°*)╯
+예술공학부 24학번 
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-C90000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCja2Z5OSOQPadCndUTdVxUA)
 
@@ -34,21 +34,7 @@
 
 ## Goal
 
-영화 특수효과, 3D 그래픽, 그리고 무대 연출에 관심이 많습니다. 
-다양한 영화와 뮤지컬, 연극 등을 보며 머릿속에 여러 참고 자료를 쌓아두고, 이를 바탕으로 언젠가 영화 특수효과나 3D 애니메이션 그래픽 분야에서 일하고 싶습니다.
 
-최근에는 디지털 기술을 활용해 무대 배경을 연출하는 공연이 많아지면서 무대 연출에도 큰 흥미를 느끼고 있습니다. 
-아직 전문적으로 다룰 수 있는 프로그램이나 기술은 없지만, 수준 높은 영화와 공연을 접하며 안목을 키우고자 합니다.
-
-영화, 연극, 뮤지컬, 전시회 등을 함께 다니며 이야기를 나눌 수 있는 친구를 항상 찾고 있습니다. 
-비슷한 관심사를 가진 분들 혹시라도 저처럼 함께 할 사람을 찾고 있다면 연락주세요...^____^
 
 ## Interest
 
-🎸Spyair 
-
-💕Musical
-
-🎬Movie
-
-🎥drama
