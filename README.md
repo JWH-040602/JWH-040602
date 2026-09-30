@@ -1,4 +1,4 @@
-## Welcome!! 👋
+## Welcome
 
 <div align=left>
 
@@ -9,8 +9,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JWH-040602)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 예술공학부 24학번 정원형
-
-![image](https://github.com/user-attachments/assets/1b1e19a9-0b0f-418c-b29c-e516eaa5a70b)
 
 예술공학부 24학번 
 
@@ -31,10 +29,4 @@
 <a href="https://procreatedreams.com/" target="_blank">
   <img src="https://procreate-assets-cdn.procreate.com/assets/dreams.D3DCTxzr.png" alt="Procreate Dreams Logo" width="30" height="30">
 </a>
-
-## Goal
-
-
-
-## Interest
 
